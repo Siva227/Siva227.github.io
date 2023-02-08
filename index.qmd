@@ -1,5 +1,5 @@
 ---
-title: "A Late Run"
+title: "A Late Run into the Blogs"
 listing:
   contents: posts
   sort: "date desc"
