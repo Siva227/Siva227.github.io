@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Siva_emany
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/siva-sankar-evp/
+    - icon: github
+      text: Github
+      href: https://github.com/Siva227
+
+---
+
+This is an outlet for my intermittent bouts of energy and inspiration.

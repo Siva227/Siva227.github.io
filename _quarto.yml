@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Siva Sankar E.V.P"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Siva227
+      - icon: twitter
+        href: https://twitter.com/Siva_emany
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+
+
+
