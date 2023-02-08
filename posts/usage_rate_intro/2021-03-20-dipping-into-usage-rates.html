@@ -63,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -151,6 +152,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#chelsea" id="toc-chelsea" class="nav-link" data-scroll-target="#chelsea">Chelsea</a>
   <ul class="collapse">
   <li><a href="#the-hazard-era" id="toc-the-hazard-era" class="nav-link" data-scroll-target="#the-hazard-era">The Hazard era</a></li>
+  <li><a href="#post-hazard-era" id="toc-post-hazard-era" class="nav-link" data-scroll-target="#post-hazard-era">Post-Hazard era</a></li>
   </ul></li>
   <li><a href="#manchester-city" id="toc-manchester-city" class="nav-link" data-scroll-target="#manchester-city">Manchester City</a></li>
   <li><a href="#liverpool" id="toc-liverpool" class="nav-link" data-scroll-target="#liverpool">Liverpool</a></li>
@@ -176,14 +178,9 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p><a href="https://www.nbastuffer.com/analytics101/usage-rate/">Usage rate</a>, a.k.a., usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor.</p>
 </blockquote>
-<p>I have used <a href="http://www.onceinabluemean.com/2015/11/city-is-kevin-de-bruynes-team-already.html">Martin Hawkes-Teeter</a>‘s definitions of Usage rates and positive to negative ratios in this article. The formula is rather straightforward as can be seen below. Terms which have a’+’ sign as a superscript are considered positive actions and those with a ‘-’ sign are considered negative.</p>
+<p>I have used <a href="http://www.onceinabluemean.com/2015/11/city-is-kevin-de-bruynes-team-already.html">Martin Hawkes-Teeter</a>’s definitions of Usage rates and positive to negative ratios in this article. The formula is rather straightforward as can be seen below.</p>
 <blockquote class="blockquote">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://latex.codecogs.com/gif.download?%5Clarge%20%5CLarge%20Usage%20Rate%20%3D%20%5Cfrac%7B%28Shots%5E+%20+%20KeyPasses%5E+%20+%20Miscontrols%5E-%20+%20Dispossessions%5E-%20+%20Unsuccesful%20Take%20Ons%5E-%20+%20Unsuccesful%20Passes%5E-%29%7D%7B%28SquadTotals%20*%20%5Cfrac%7B90s%5C%20Played%7D%7BTotal%5C%2090s%7D%29%7D" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">UsageRate=</figcaption><p></p>
-</figure>
-</div>
+<p><span class="math display">\[Positive\ Outcomes\ =\ Shots\ +\ Key\ Passes\]</span><span class="math display">\[Negative\ Outcomes\ =\ Miscontrols\ +\ Dispossessions\ +\ Unsuccesful\ Take\ Ons\]</span><span class="math display">\[Usage\ Rate=\frac{Positive\ Outcomes\ +\ Negative\ Outcomes}{(Squad\ Totals * \frac{90s\ Played}{Total\ 90s})}\]</span></p>
 </blockquote>
 <p>With the context set, let’s dive into the profiles of some teams in the Premier League over the last 4 seasons.</p>
 </section>
@@ -191,7 +188,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="chelsea">Chelsea</h2>
 <section id="the-hazard-era" class="level3">
 <h3 class="anchored" data-anchor-id="the-hazard-era">The Hazard era</h3>
-<p>Chelsea’s attack was often described as completely dependent on Eden Hazard during his time here. This is particularly true under Sarri’s regime. Him and Willian are on a completely different level in terms of using possession and also being highly efficient with their actions. The median usage rate is the lowest it has been while the efficiency is pretty high. That goes to show that the majority of attaking impetus and risk taking came from Hazard and to an extent Willian. This is also borne out by the fact that Hazard had the most positive actions(183 Shots+KP). Only Willian is remotely close to him with 144. Everybody else is well below 100. This disparity shows up stronger when looking at overall numbers. Hazard used 829 possessions, the closest player to him is Willian with 576. One man show. <img src="https://i.imgur.com/LSJneAx.png" class="img-fluid"> ### Post-Hazard era Hakim Ziyech has always been a high usage player. That has usually been coupled with excellent output. If he doesn’t provide that, he’s a liability to the team. Mason Mount has taken a huge leap forward over last season. Reece is having a really good season too. Influential in attack coupled with good efficiency while improving his defensive skills with every passing game. Chilwell is an interesting case for a fullback. He’s a very attacking player who puts up some good ball progression and crossing numbers. If he can improve his efficiency, he can make a case for being the best attacking fullback in the league. Kai Havertz while not contributing much has been tidy, Pulisic on the other hand has had a huge fall from last season. His efficiency has dropped to 20% from 30% last season. Need improvements there. Callum on the other hand, very efficient on the ball and has excellent efficiency.</p>
+<p>Chelsea’s attack was often described as completely dependent on Eden Hazard during his time here. This is particularly true under Sarri’s regime. Him and Willian are on a completely different level in terms of using possession and also being highly efficient with their actions. The median usage rate is the lowest it has been while the efficiency is pretty high. That goes to show that the majority of attaking impetus and risk taking came from Hazard and to an extent Willian. This is also borne out by the fact that Hazard had the most positive actions(183 Shots+KP). Only Willian is remotely close to him with 144. Everybody else is well below 100. This disparity shows up stronger when looking at overall numbers. Hazard used 829 possessions, the closest player to him is Willian with 576. One man show. <img src="https://i.imgur.com/LSJneAx.png" class="img-fluid"></p>
+</section>
+<section id="post-hazard-era" class="level3">
+<h3 class="anchored" data-anchor-id="post-hazard-era">Post-Hazard era</h3>
+<p>Hakim Ziyech has always been a high usage player. That has usually been coupled with excellent output. If he doesn’t provide that, he’s a liability to the team. Mason Mount has taken a huge leap forward over last season. Reece is having a really good season too. Influential in attack coupled with good efficiency while improving his defensive skills with every passing game. Chilwell is an interesting case for a fullback. He’s a very attacking player who puts up some good ball progression and crossing numbers. If he can improve his efficiency, he can make a case for being the best attacking fullback in the league. Kai Havertz while not contributing much has been tidy, Pulisic on the other hand has had a huge fall from last season. His efficiency has dropped to 20% from 30% last season. Need improvements there. Callum on the other hand, very efficient on the ball and has excellent efficiency.</p>
 </section>
 </section>
 <section id="manchester-city" class="level2">
