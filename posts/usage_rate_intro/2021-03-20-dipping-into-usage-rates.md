@@ -19,10 +19,10 @@ Usage rate is a metric used in basketball analytics to understand how much of a 
 
 >[Usage rate](https://www.nbastuffer.com/analytics101/usage-rate/), a.k.a., usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor.
 
-I have used [Martin Hawkes-Teeter](http://www.onceinabluemean.com/2015/11/city-is-kevin-de-bruynes-team-already.html)'s definitions of Usage rates and positive to negative ratios in this article. The formula is rather straightforward as can be seen below. Terms which have a '+' sign as a superscript are considered positive actions and those with a '-' sign are considered negative.
+I have used [Martin Hawkes-Teeter](http://www.onceinabluemean.com/2015/11/city-is-kevin-de-bruynes-team-already.html)'s definitions of Usage rates and positive to negative ratios in this article. The formula is rather straightforward as can be seen below. 
 
 
-> ![\Large UsageRate=\frac{(Shots^+ + KeyPasses^+ + Miscontrols^- + Dispossessions^- + Unsuccesful Take Ons^- + Unsuccesful Passes^-)}{(SquadTotals * \frac{90s\ Played}{Total\ 90s})}](https://latex.codecogs.com/gif.download?%5Clarge%20%5CLarge%20Usage%20Rate%20%3D%20%5Cfrac%7B%28Shots%5E+%20+%20KeyPasses%5E+%20+%20Miscontrols%5E-%20+%20Dispossessions%5E-%20+%20Unsuccesful%20Take%20Ons%5E-%20+%20Unsuccesful%20Passes%5E-%29%7D%7B%28SquadTotals%20*%20%5Cfrac%7B90s%5C%20Played%7D%7BTotal%5C%2090s%7D%29%7D) 
+> $$Positive\ Outcomes\ =\ Shots\ +\ Key\ Passes$$$$Negative\ Outcomes\ =\ Miscontrols\ +\ Dispossessions\ +\ Unsuccesful\ Take\ Ons$$$$Usage\ Rate=\frac{Positive\ Outcomes\ +\ Negative\ Outcomes}{(Squad\ Totals * \frac{90s\ Played}{Total\ 90s})}$$
 
 With the context set, let's dive into the profiles of some teams in the Premier League over the last 4 seasons.
 
@@ -30,6 +30,7 @@ With the context set, let's dive into the profiles of some teams in the Premier 
 ### The Hazard era
 Chelsea's attack was often described as completely dependent on Eden Hazard during his time here. This is particularly true under Sarri's regime. Him and Willian are on a completely different level in terms of using possession and also being highly efficient with their actions. The median usage rate is the lowest it has been while the efficiency is pretty high. That goes to show that the majority of attaking impetus and risk taking came from Hazard and to an extent Willian. This is also borne out by the fact that Hazard had the most positive actions(183 Shots+KP). Only Willian is remotely close to him with 144. Everybody else is well below 100. This disparity shows up stronger when looking at overall numbers. Hazard used 829 possessions, the closest player to him is Willian with 576. One man show.
 ![](https://i.imgur.com/LSJneAx.png)
+
 ### Post-Hazard era
 Hakim Ziyech has always been a high usage player. That has usually been coupled with excellent output. If he doesn't provide that, he's a liability to the team. Mason Mount has taken a huge leap forward over last season. Reece is having a really good season too. Influential in attack coupled with good efficiency while improving his defensive skills with every passing game. Chilwell is an interesting case for a fullback. He's a very attacking player who puts up some good ball progression and crossing numbers. If he can improve his efficiency, he can make a case for being the best attacking fullback in the league. Kai Havertz while not contributing much has been tidy, Pulisic on the other hand has had a huge fall from last season. His efficiency has dropped to 20% from 30% last season. Need improvements there. Callum on the other hand, very efficient on the ball and has excellent efficiency.
 
