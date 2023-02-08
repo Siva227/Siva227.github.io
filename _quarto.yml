@@ -10,12 +10,13 @@ website:
         href: https://github.com/Siva227
       - icon: twitter
         href: https://twitter.com/Siva_emany
+  twitter-card:
+    creator: "@Siva_emany"
 format:
   html:
     theme: 
       light: flatly
       dark: darkly
-    css: styles.css
-
+    css: styles.css  
 
 
