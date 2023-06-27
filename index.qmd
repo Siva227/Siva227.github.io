@@ -1,14 +1,21 @@
 ---
-title: "A Late Run into the Blogs"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Siva Sankar E.V.P"
+image: images/profile.jpg
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Siva_emany
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/siva-sankar-evp/
+    - icon: github
+      text: Github
+      href: https://github.com/Siva227
+
 ---
 
-
+This is an outlet for my intermittent bouts of energy and inspiration.

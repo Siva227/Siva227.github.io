@@ -3,13 +3,24 @@ project:
 
 website:
   title: "Siva Sankar E.V.P"
+  favicon: images/favicon.ico
   navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: resume.qmd
+        text: Resume
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/Siva227
       - icon: twitter
         href: https://twitter.com/Siva_emany
+      - icon: linkedin
+        href: https://www.linkedin.com/in/siva-sankar-evp/
   twitter-card:
     creator: "@Siva_emany"
 format:
