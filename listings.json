@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/vaes-and-mixture-models/vaes-in-semi-supervised-learning.html",
       "/posts/cfcw-season-preview-2021/2021-09-05-chelsea-fcw-preview-forwards.html",
       "/posts/cl-final-2021/2021-05-31-europe-is-blue.html",
       "/posts/usage_rate_intro/2021-03-20-dipping-into-usage-rates.html",

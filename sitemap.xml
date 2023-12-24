@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Siva227.github.io/blog.html</loc>
-    <lastmod>2023-06-28T04:30:25.853Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/resume.html</loc>
+    <lastmod>2023-12-24T04:59:20.184Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/resume.html</loc>
-    <lastmod>2023-06-28T04:30:25.365Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/posts/cl-final-2021/2021-05-31-europe-is-blue.html</loc>
+    <lastmod>2023-12-24T04:59:20.779Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/posts/usage_rate_intro/2021-03-20-dipping-into-usage-rates.html</loc>
-    <lastmod>2023-06-28T04:30:24.921Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/posts/usage_rate_intro/2021-03-20-dipping-into-usage-rates.html</loc>
+    <lastmod>2023-12-24T04:59:21.176Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/posts/cfcw-season-preview-2021/2021-09-05-chelsea-fcw-preview-forwards.html</loc>
-    <lastmod>2023-06-28T04:30:24.365Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/posts/cfcw-season-preview-2021/2021-09-05-chelsea-fcw-preview-forwards.html</loc>
+    <lastmod>2023-12-24T04:59:21.547Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/posts/cl-final-2021/2021-05-31-europe-is-blue.html</loc>
-    <lastmod>2023-06-28T04:30:24.681Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/posts/lampard-season-review/2020-08-06-digging-into-shots.html</loc>
+    <lastmod>2023-12-24T04:59:22.033Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/posts/lampard-season-review/2020-08-06-digging-into-shots.html</loc>
-    <lastmod>2023-06-28T04:30:25.201Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/posts/vaes-and-mixture-models/vaes-in-semi-supervised-learning.html</loc>
+    <lastmod>2023-12-24T04:59:23.463Z</lastmod>
   </url>
   <url>
-    <loc>https://Siva227.github.io/index.html</loc>
-    <lastmod>2023-06-28T04:30:25.533Z</lastmod>
+    <loc>https://Siva227.github.io/a-late-run-blog/index.html</loc>
+    <lastmod>2023-12-24T04:59:24.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Siva227.github.io/a-late-run-blog/blog.html</loc>
+    <lastmod>2023-12-24T04:59:25.364Z</lastmod>
   </url>
 </urlset>
